@@ -6,4 +6,4 @@ Join **[my Discord server](https://discord.gg/R7MMSsZJ8r)** if you need help wit
 
 Want to support my work?
 
-<a href="https://www.buymeacoffee.com/futte"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=futte&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/futte"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=futte&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
