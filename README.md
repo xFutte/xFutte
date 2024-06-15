@@ -2,15 +2,14 @@
 
 ### 🌱 About Me
 
-- 🎓 15+ years of experience in web development
-- 👨‍💻 Specialized in frontend development
+- 🎓 **15+ years of experience** in web development
+- 👨‍💻 Specialized in **frontend development**
 - 🌈 Passionate about **Svelte**, **Angular**, **Tailwind**, and more!
-- 🛠️ Quality ensuring code with Jest and Cypress
-- 🤔 Debugging with Chrome DevTools & Postman
+- 🛠️ Quality ensuring code with **Jest** and **Cypress**
 
 ### 🤝 Let's Connect!
 
-Want to have a talk? Join **[my Discord server](https://discord.gg/R7MMSsZJ8r)** 👍
+Want to chat? Join **[my Discord server](https://discord.gg/R7MMSsZJ8r)** 👍
 
 ---
 
