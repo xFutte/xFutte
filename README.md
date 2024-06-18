@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Futte!
 
-### 🌱 About Me
+### 🌱 Who am  I?
 
 - 🎓 **15+ years of experience** in web development
 - 👨‍💻 Specialized in **frontend development**
