@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Futte!
+# 👋 Hey there, I'm Futte
 
 ### 🌱 Who am  I?
 
