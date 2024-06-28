@@ -7,7 +7,7 @@
 - 🌈 Passionate about **Svelte**, **Angular**, **Tailwind**, and more!
 - 🛠️ Quality ensuring code with **Jest** and **Cypress**
 
-### 🤝 Let's Connect!
+### 🤝 Let's connect!
 
 Want to chat? Join **[my Discord server](https://discord.gg/R7MMSsZJ8r)** 👍
 
