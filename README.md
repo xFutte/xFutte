@@ -9,7 +9,7 @@
 
 ### 🤝 Let's connect!
 
-Want to chat? Join **[my Discord server](https://discord.gg/R7MMSsZJ8r)** 👍
+Let's have a chat! Join **[my Discord server](https://discord.gg/R7MMSsZJ8r)** 👍
 
 ---
 
