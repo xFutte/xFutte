@@ -4,7 +4,7 @@
 
 - 🎓 **15+ years of experience** in web development
 - 👨‍💻 Specialized in **frontend development**
-- 🌈 Passionate about **Svelte** and **Angular**, and more!
+- 🌈 Passionate about **Svelte**, **Angular**, and more!
 - 🛠️ Quality ensuring code with **Jest** and **Cypress**
 
 ### 🤝 Let's connect!
